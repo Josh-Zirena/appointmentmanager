@@ -1,5 +1,5 @@
 {
-  "name": "appointmentmanager",
+  "name": "server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/Josh-Zirena/appointmentmanager.git"
   },
-  "author": "",
+  "author": "Josh Zirena, John Soto",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Josh-Zirena/appointmentmanager/issues"
   },
-  "homepage": "https://github.com/Josh-Zirena/appointmentmanager#readme"
+  "homepage": "https://github.com/Josh-Zirena/appointmentmanager#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
