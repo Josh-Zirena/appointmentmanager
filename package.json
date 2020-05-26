@@ -1,0 +1,19 @@
+{
+  "name": "appointmentmanager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josh-Zirena/appointmentmanager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josh-Zirena/appointmentmanager/issues"
+  },
+  "homepage": "https://github.com/Josh-Zirena/appointmentmanager#readme"
+}
